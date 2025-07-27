@@ -1,6 +1,6 @@
 name: base_page
 description: "A base class to build page widgets on top of."
-version: 0.1.0
+version: 0.2.0
 homepage: https://github.com/MWhatsUp/base_page
 
 environment:

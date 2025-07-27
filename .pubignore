@@ -27,6 +27,3 @@ migrate_working_dir/
 **/doc/api/
 .dart_tool/
 build/
-
-lib/base_page.dart
-test/base_page_test.dart
